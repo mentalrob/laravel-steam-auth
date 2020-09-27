@@ -1,4 +1,4 @@
-# Steam Auth for Laravel 7
+# Steam Auth for Laravel 8
 [![Latest Stable Version](https://img.shields.io/packagist/v/ilzrv/laravel-steam-auth.svg)](https://packagist.org/packages/ilzrv/laravel-steam-auth)
 [![Total Downloads](https://img.shields.io/packagist/dt/ilzrv/laravel-steam-auth.svg)](https://packagist.org/packages/ilzrv/laravel-steam-auth)
 [![License](https://img.shields.io/github/license/ilzrv/laravel-steam-auth.svg)](https://packagist.org/packages/ilzrv/laravel-steam-auth)
@@ -6,13 +6,13 @@
 Package allows you to implement Steam authentication in your Laravel project.
 
 ## Requirements
- * Laravel 7+
+ * Laravel 8+
  * Guzzle HTTP 6.5+
 
 ## Installation
 #### Install the package
 ```bash
-composer require ilzrv/laravel-steam-auth
+composer require mentalrob/laravel-steam-auth
 ```
 
 #### Publish the config file
