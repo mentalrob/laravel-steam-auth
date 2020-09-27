@@ -2,7 +2,7 @@
     "name": "mentalrob/laravel-steam-auth",
     "description": "Steam Auth for Laravel 7",
     "require": {
-        "laravel/framework": "^8.*",
+        "laravel/framework": "^8.0",
         "guzzlehttp/guzzle": "^7.1"
     },
     "license": "MIT",
