@@ -1,5 +1,5 @@
 {
-    "name": "ilzrv/laravel-steam-auth",
+    "name": "mentalrob/laravel-steam-auth",
     "description": "Steam Auth for Laravel 7",
     "require": {
         "laravel/framework": "^8.0",
